@@ -1,0 +1,8 @@
+Welcome to the Tip Calculator!
+Enter the bill amount: $500
+Enter tip percentage (e.g., 10, 15, 20): 15
+Split between how many people? 3
+
+Total Tip: $75.00
+Total Bill (with Tip): $575.00
+Each person should pay: $191.67
